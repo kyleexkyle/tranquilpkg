@@ -5,6 +5,13 @@
             "Kyle\\Tranquil\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Kyle\\Tranquil\\TranquilServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "kyle",
