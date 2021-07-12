@@ -1,5 +1,10 @@
 {
     "name": "kylecastillon/tranquil",
+    "autoload": {
+        "psr-4": {
+            "Kyle\\Tranquil\\": "packages/kyle/tranquil/src"
+        }
+    },
     "authors": [
         {
             "name": "kyle",
